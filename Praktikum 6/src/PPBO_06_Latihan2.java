@@ -1,5 +1,5 @@
-// Nama :
-// NIM  : 
+// Nama : Afif Nur Fauzi
+// NIM  : M0521007
 
 import java.util.ArrayList;
 import java.util.HashMap;
